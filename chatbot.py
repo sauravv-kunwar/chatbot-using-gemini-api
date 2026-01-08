@@ -6,7 +6,7 @@ import google.generativeai as genai
 import pyttsx3  # For text-to-speech
 
 # ===== CONFIGURATION =====
-API_KEY = "AIzaSyAjE-7PLapwZmZ2yLM86jJJRrF5OBEZkMk"  # Paste your Gemini API key here
+API_KEY = " Paste your Gemini API key here"  
 MODEL_NAME = "gemini-1.5-flash"
 
 # Configure Gemini
@@ -136,3 +136,4 @@ send_btn = tk.Button(entry_frame, text="Send", command=send_message, font=("Sego
 send_btn.pack(side="right", padx=5, pady=5)
 
 root.mainloop()
+
