@@ -1,5 +1,4 @@
 # chatbot-using-gemini-api
-
 An AI-powered chatbot built using Python, Tkinter, and Google's Gemini API.  
 Features:
 - Modern GUI with Tkinter
